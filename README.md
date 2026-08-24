@@ -4,7 +4,7 @@ An end-to-end churn prediction project — from raw data cleaning through model 
 
 This isn't just "train a model and deploy it." The value of this project is in the analyst judgment behind it: catching a data quality issue before it broke the pipeline, comparing three models honestly instead of defaulting to the most complex one, and diagnosing a collinearity problem that was quietly distorting the business narrative.
 
-**[Live app link — add after deploying to Streamlit Community Cloud]**
+**[https://lajema-telco-customer-churn-app-dznsze.streamlit.app/]**
 
 ---
 
